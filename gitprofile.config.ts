@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'pablo-marchesi',
     twitter: '',
     mastodon: '',
     researchGate: '',
@@ -83,34 +83,28 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Python',
+    'R',
+    'Matlab',
+    'SQL',
+    'LaTex',
+    'C++',
+    'Assembly',
+    'Excel',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'KPMG',
+      position: 'Credit Risk Intern',
+      from: 'October 2024',
       to: 'Present',
       companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
+      company: 'Management Solutions',
+      position: 'Data Science Intern',
+      from: 'February 2024',
+      to: 'May 2024',
       companyLink: 'https://example.com',
     },
   ],
@@ -124,16 +118,22 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'AFI Global Education',
+      degree: 'MSc Quantitative Finance',
+      from: '2024',
+      to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Universidad Politécnica de Valencia',
+      degree: 'Telecommunications Engineering',
+      from: '2019',
+      to: '2024',
+    },
+    {
+      institution: 'Universidad Politécnica de Valencia',
+      degree: 'Business Management',
+      from: '2019',
+      to: '2024',
     },
   ],
   publications: [
@@ -232,9 +232,6 @@ const CONFIG = {
       '--rounded-btn': '3rem',
     },
   },
-
-  // Optional Footer. Supports plain text or HTML.
-
   enablePWA: true,
 };
 
