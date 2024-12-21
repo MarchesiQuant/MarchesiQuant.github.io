@@ -29,31 +29,31 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: '',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: '',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '',
+          link: '',
         },
         {
-          title: 'Project Name',
+          title: '',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '',
+          link: '',
         },
       ],
     },
   },
   seo: {
     title: 'Portfolio of Pablo Marchesi',
-    description: 'Hola',
+    description: '',
     imageURL: '',
   },
   social: {
@@ -94,15 +94,15 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'KPMG',
-      position: 'Credit Risk Intern',
+      company: 'Credit Risk Intern',
+      position: 'KPMG',
       from: 'October 2024',
       to: 'Present',
       companyLink: 'https://example.com',
     },
     {
-      company: 'Management Solutions',
-      position: 'Data Science Intern',
+      company: 'Data Science Intern',
+      position: 'Management Solutions',
       from: 'February 2024',
       to: 'May 2024',
       companyLink: 'https://example.com',
