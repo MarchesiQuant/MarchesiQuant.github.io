@@ -40,7 +40,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'pablo-marchesi',
+    linkedin: 'pablo-marchesi-010383199',
     twitter: '',
     mastodon: '',
     researchGate: '',
