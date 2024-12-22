@@ -31,24 +31,7 @@ const CONFIG = {
     external: {
       header: '',
       // To hide the `External Projects` section, keep it empty.
-      projects: [
-        {
-          title: '',
-          description:
-            '',
-          imageUrl:
-            '',
-          link: '',
-        },
-        {
-          title: '',
-          description:
-            '',
-          imageUrl:
-            '',
-          link: '',
-        },
-      ],
+      projects: [],
     },
   },
   seo: {
@@ -98,24 +81,17 @@ const CONFIG = {
       position: 'KPMG',
       from: 'October 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://kpmg.com/xx/en.html',
     },
     {
       company: 'Data Science Intern',
       position: 'Management Solutions',
       from: 'February 2024',
       to: 'May 2024',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.managementsolutions.com/en',
     },
   ],
-  certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
-    },
-  ],
+
   educations: [
     {
       institution: 'AFI Global Education',
@@ -134,6 +110,14 @@ const CONFIG = {
       degree: 'Business Management',
       from: '2019',
       to: '2024',
+    },
+  ],
+    certifications: [
+    {
+      name: 'Certificate in Advanced English (C1)',
+      body: 'Cambridge University Press & Assessment English',
+      year: 'April 2018',
+      link: '',
     },
   ],
   publications: [
