@@ -122,13 +122,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Derivation of the Breeden-Litzenberger Theorem',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: '',
+      authors: '',
+      link: 'https://www.linkedin.com/feed/update/urn:li:activity:7268664878721114112/',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Did you know you can derive market-implied probability distributions directly from call option prices? In this brief paper, we demonstrate this key concept by deriving the Breeden-Litzenberger theorem. The Breeden-Litzenberger theorem establishes a relationship between the second derivative of a European call option’s price with respect to its strike price and the probability density function of the underlying asset’s price. This result is fundamental in financial mathematics and enables the extraction of the risk-neutral density from observed option prices.',
     },
     {
       title: 'Publication Title',
