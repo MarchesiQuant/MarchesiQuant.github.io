@@ -63,7 +63,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/MarchesiQuant/CV/raw/main/CV_Oct.pdf', 
+      'https://github.com/MarchesiQuant/CV/raw/main/CV_Jan.pdf', 
   },
   skills: [
     'Python',
