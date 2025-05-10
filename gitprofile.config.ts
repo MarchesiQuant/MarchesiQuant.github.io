@@ -72,15 +72,23 @@ const CONFIG = {
     'SQL',
     'LaTex',
     'C++',
+    'VBA',
     'Assembly',
     'Excel',
   ],
   experiences: [
     {
-      company: 'Credit Risk Intern',
+      company: 'Quantitative Analyst',
+      position: 'EY',
+      from: 'May 2025',
+      to: 'Present',
+      companyLink: 'https://www.ey.com/en_gl',
+    },
+    {
+      company: 'Quantitative Analyst Intern',
       position: 'KPMG',
       from: 'October 2024',
-      to: 'Present',
+      to: 'May 2025',
       companyLink: 'https://kpmg.com/xx/en.html',
     },
     {
