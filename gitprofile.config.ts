@@ -63,7 +63,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/MarchesiQuant/CV/raw/main/CV_Jan.pdf', 
+      'https://github.com/MarchesiQuant/CV/raw/main/CV.pdf', 
   },
   skills: [
     'Python',
@@ -73,7 +73,8 @@ const CONFIG = {
     'LaTex',
     'C++',
     'VBA',
-    'Assembly',
+    'Refinitiv Eikon',
+    'Git/Github',
     'Excel',
   ],
   experiences: [
@@ -107,14 +108,20 @@ const CONFIG = {
       from: '2024',
       to: '2025',
     },
+        {
+      institution: 'National Distance Education University, UNED',
+      degree: 'Mathematics',
+      from: '2019',
+      to: '2024',
+    },
     {
-      institution: 'Universidad Politécnica de Valencia',
+      institution: 'Polytechnic University of Valencia, UPV',
       degree: 'Telecommunications Engineering',
       from: '2019',
       to: '2024',
     },
     {
-      institution: 'Universidad Politécnica de Valencia',
+      institution: 'Polytechnic University of Valencia, UPV',
       degree: 'Business Management',
       from: '2019',
       to: '2024',
