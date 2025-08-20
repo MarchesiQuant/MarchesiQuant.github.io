@@ -111,8 +111,8 @@ const CONFIG = {
         {
       institution: 'National Distance Education University, UNED',
       degree: 'Mathematics',
-      from: '2019',
-      to: '2024',
+      from: '2025,
+      to: 'Present',
     },
     {
       institution: 'Polytechnic University of Valencia, UPV',
